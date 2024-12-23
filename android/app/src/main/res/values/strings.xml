@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">weight-recorder</string>
+    <string name="title_activity_main">weight-recorder</string>
+    <string name="package_name">nz.weight.recorder.app</string>
+    <string name="custom_url_scheme">nz.weight.recorder.app</string>
+</resources>
